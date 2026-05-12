@@ -1,4 +1,4 @@
-在 stackoverflow 上有人提问 [程序员应该阅读的非编程类书籍有哪些？](http://stackoverflow.com/q/38210/343194) 本来只想整理编程类书籍，
+在 stackoverflow 上有人提问 [程序员应该阅读的非编程类书籍有哪些？](http://stackoverflow.com/q/38210/343194) 本来只想整理编程类书籍， 
 不过突然眼前一亮，发现了《The Art of War - Sun Tzu》回答者的推荐说明引用 Wikipedia 上的：
 
 亚马逊提供免费的　Kindle　版读本：[孙子兵法](http://www.amazon.cn/gp/product/B00AA7KMKG/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B00AA7KMKG&linkCode=as2&tag=favbook-23)
